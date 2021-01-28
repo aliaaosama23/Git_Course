@@ -2,4 +2,4 @@
 to learn with Git
 
 
-## new changes
+## project notes
